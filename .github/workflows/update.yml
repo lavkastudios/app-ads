@@ -1,0 +1,63 @@
+name: app-ads.txt
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"          # every Monday 05:17 UTC: refresh network lists, build, check, publish
+  push:
+    branches: [main]
+    paths: ["sources/**", "config.toml", "scripts/**", "worker/**"]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Publish even if the record count changed a lot"
+        type: boolean
+        default: false
+      skip_fetch:
+        description: "Do not download network lists, build from the repository as is"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: app-ads
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Fetch network lists
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && !inputs.skip_fetch)
+        run: python scripts/fetch.py
+
+      - name: Build
+        run: python scripts/build.py
+
+      - name: Guardrails (stop here if anything looks wrong)
+        id: check
+        run: python scripts/check.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit refreshed sources
+        run: |
+          git config user.name "app-ads-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A sources dist
+          if ! git diff --cached --quiet; then
+            git commit -m "app-ads: auto-update $(date -u +%F)"
+            git push
+          fi
+
+      - name: Verify live file (GitHub and Cloudflare caches take up to ~10 minutes)
+        if: steps.check.outputs.changed == 'true'
+        run: python scripts/verify_live.py

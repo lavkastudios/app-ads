@@ -1,0 +1,7 @@
+# Adwmg
+adwmg.com, 101215, RESELLER, c9688a22012618e7
+sharethrough.com, 2f18331a, RESELLER, d53b998a7bd4ecd2
+themediagrid.com, RIX2M5, RESELLER, 35d5010d7789b49d
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1604590, RESELLER
+freewheel.tv, 1604595, RESELLER

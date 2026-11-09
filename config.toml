@@ -1,0 +1,435 @@
+# Build configuration for https://lavkastudios.com/app-ads.txt
+#
+# Output order:
+#   ownerdomain
+#   [[accounts]] blocks (each line is required; a missing line blocks publishing)
+#   reseller groups (deduplicated, sorted; a line appears only in the first group that has it)
+#
+# Source kinds:
+#   file - maintained by hand or by the weekly update task
+#   url  - downloaded by scripts/fetch.py; a bad download keeps the previous version
+
+owner_domain = "lavkastudios.com"
+live_url = "https://lavkastudios.com/app-ads.txt"
+output = "dist/app-ads.txt"
+allow_variables = []
+max_drop_ratio = 0.25        # stop if the record count drops by more than 25% vs live
+max_growth_ratio = 2.5       # stop if it grows more than 2.5x
+max_bytes = 1_000_000
+min_total_records = 3000
+
+reseller_groups = [
+  { id = "main",       title = "Resellers" },
+  { id = "additional", title = "Additional resellers" },
+]
+
+[[accounts]]
+title = "Direct accounts"
+path = "sources/accounts/direct.txt"
+
+[[accounts]]
+title = "Additional direct accounts"
+path = "sources/accounts/additional.txt"
+
+
+[[source]]
+id = "own-accounts"
+title = "Own accounts"
+kind = "file"
+path = "sources/networks/00-own-accounts.txt"
+
+[[source]]
+id = "applovin"
+title = "applovin"
+kind = "file"
+path = "sources/networks/02-applovin.txt"
+
+[[source]]
+id = "vungle"
+title = "vungle"
+kind = "file"
+path = "sources/networks/03-vungle.txt"
+
+[[source]]
+id = "unity"
+title = "unity"
+kind = "file"
+path = "sources/networks/04-unity.txt"
+
+[[source]]
+id = "smaato"
+title = "smaato"
+kind = "file"
+path = "sources/networks/05-smaato.txt"
+
+[[source]]
+id = "amazon"
+title = "Amazon"
+kind = "file"
+path = "sources/networks/06-amazon.txt"
+
+[[source]]
+id = "inmobi"
+title = "Inmobi"
+kind = "file"
+path = "sources/networks/07-inmobi.txt"
+
+[[source]]
+id = "smaato-a9-tam"
+title = "Smaato A9 TAM"
+kind = "file"
+path = "sources/networks/08-smaato-a9-tam.txt"
+
+[[source]]
+id = "mintegral"
+title = "Mintegral"
+kind = "file"
+path = "sources/networks/09-mintegral.txt"
+
+[[source]]
+id = "megadilla"
+title = "Megadilla"
+kind = "file"
+path = "sources/networks/10-megadilla.txt"
+
+[[source]]
+id = "wmg"
+title = "WMG"
+kind = "file"
+path = "sources/networks/11-wmg.txt"
+
+[[source]]
+id = "dt-exchange-fyber"
+title = "DT Exchange / Fyber"
+kind = "file"
+path = "sources/networks/12-dt-exchange-fyber.txt"
+
+[[source]]
+id = "dt-exchange-fyber-public"
+title = "DT Exchange"
+kind = "url"
+path = "sources/networks/12b-dt-exchange-public.txt"
+url = "https://www.digitalturbine.com/dt-app-ads.txt"
+strip_direct_for = ["fyber.com"]
+min_records = 100
+max_bad_ratio = 1.0
+max_drop_ratio = 0.6
+
+[[source]]
+id = "bidmachine"
+title = "BidMachine"
+kind = "file"
+path = "sources/networks/13-bidmachine.txt"
+
+[[source]]
+id = "acuityads"
+title = "AcuityAds"
+kind = "file"
+path = "sources/networks/14-acuityads.txt"
+
+[[source]]
+id = "aceex"
+title = "Aceex"
+kind = "file"
+path = "sources/networks/15-aceex.txt"
+
+[[source]]
+id = "adelement"
+title = "AdElement"
+kind = "file"
+path = "sources/networks/16-adelement.txt"
+
+[[source]]
+id = "adwmg"
+title = "Adwmg"
+kind = "file"
+path = "sources/networks/17-adwmg.txt"
+
+[[source]]
+id = "azerion-improve-digital"
+title = "Azerion Improve Digital"
+kind = "file"
+path = "sources/networks/18-azerion-improve-digital.txt"
+
+[[source]]
+id = "betweenexchange"
+title = "BetweenExchange"
+kind = "file"
+path = "sources/networks/19-betweenexchange.txt"
+
+[[source]]
+id = "bidease"
+title = "bidease"
+kind = "file"
+path = "sources/networks/20-bidease.txt"
+
+[[source]]
+id = "blasto"
+title = "Blasto"
+kind = "file"
+path = "sources/networks/21-blasto.txt"
+
+[[source]]
+id = "bluesea"
+title = "BlueSea"
+kind = "file"
+path = "sources/networks/22-bluesea.txt"
+
+[[source]]
+id = "colossus-ssp"
+title = "Colossus SSP"
+kind = "file"
+path = "sources/networks/23-colossus-ssp.txt"
+
+[[source]]
+id = "connekt-ai"
+title = "connekt.ai"
+kind = "file"
+path = "sources/networks/24-connekt-ai.txt"
+
+[[source]]
+id = "criteo-direct"
+title = "Criteo Direct"
+kind = "file"
+path = "sources/networks/25-criteo-direct.txt"
+
+[[source]]
+id = "criteo"
+title = "Criteo"
+kind = "file"
+path = "sources/networks/26-criteo.txt"
+
+[[source]]
+id = "e-planning"
+title = "E-Planning"
+kind = "file"
+path = "sources/networks/27-e-planning.txt"
+
+[[source]]
+id = "edge226"
+title = "Edge226"
+kind = "file"
+path = "sources/networks/28-edge226.txt"
+
+[[source]]
+id = "epsilon"
+title = "Epsilon"
+kind = "file"
+path = "sources/networks/29-epsilon.txt"
+
+[[source]]
+id = "equativ"
+title = "Equativ"
+kind = "file"
+path = "sources/networks/30-equativ.txt"
+
+[[source]]
+id = "iion"
+title = "iion"
+kind = "file"
+path = "sources/networks/31-iion.txt"
+
+[[source]]
+id = "index-exchange"
+title = "Index Exchange"
+kind = "file"
+path = "sources/networks/32-index-exchange.txt"
+
+[[source]]
+id = "inmobi-2"
+title = "InMobi"
+kind = "file"
+path = "sources/networks/33-inmobi-2.txt"
+
+[[source]]
+id = "iqzone"
+title = "IQzone"
+kind = "file"
+path = "sources/networks/34-iqzone.txt"
+
+[[source]]
+id = "keenkale"
+title = "Keenkale"
+kind = "file"
+path = "sources/networks/35-keenkale.txt"
+
+[[source]]
+id = "krushmedia"
+title = "KrushMedia"
+kind = "file"
+path = "sources/networks/36-krushmedia.txt"
+
+[[source]]
+id = "loopme"
+title = "LoopMe"
+kind = "file"
+path = "sources/networks/37-loopme.txt"
+
+[[source]]
+id = "magnite"
+title = "Magnite"
+kind = "file"
+path = "sources/networks/38-magnite.txt"
+
+[[source]]
+id = "minimob"
+title = "Minimob"
+kind = "file"
+path = "sources/networks/39-minimob.txt"
+
+[[source]]
+id = "motorik"
+title = "Motorik"
+kind = "file"
+path = "sources/networks/40-motorik.txt"
+
+[[source]]
+id = "nexxen"
+title = "Nexxen"
+kind = "file"
+path = "sources/networks/41-nexxen.txt"
+
+[[source]]
+id = "on-air-global"
+title = "On Air Global"
+kind = "file"
+path = "sources/networks/42-on-air-global.txt"
+
+[[source]]
+id = "openx"
+title = "OpenX"
+kind = "file"
+path = "sources/networks/43-openx.txt"
+
+[[source]]
+id = "opera"
+title = "Opera"
+kind = "file"
+path = "sources/networks/44-opera.txt"
+
+[[source]]
+id = "playdigo"
+title = "playdigo"
+kind = "file"
+path = "sources/networks/45-playdigo.txt"
+
+[[source]]
+id = "prequel-tv"
+title = "Prequel.TV"
+kind = "file"
+path = "sources/networks/46-prequel-tv.txt"
+
+[[source]]
+id = "programmaticx"
+title = "ProgrammaticX"
+kind = "file"
+path = "sources/networks/47-programmaticx.txt"
+
+[[source]]
+id = "pulsepoint"
+title = "Pulsepoint"
+kind = "file"
+path = "sources/networks/48-pulsepoint.txt"
+
+[[source]]
+id = "pubmatic"
+title = "Pubmatic"
+kind = "file"
+path = "sources/networks/49-pubmatic.txt"
+
+[[source]]
+id = "rise-codes"
+title = "Rise Codes"
+kind = "file"
+path = "sources/networks/50-rise-codes.txt"
+
+[[source]]
+id = "rhebus"
+title = "Rhebus"
+kind = "file"
+path = "sources/networks/51-rhebus.txt"
+
+[[source]]
+id = "sahar-media"
+title = "Sahar Media"
+kind = "file"
+path = "sources/networks/52-sahar-media.txt"
+
+[[source]]
+id = "se7en"
+title = "Se7en"
+kind = "file"
+path = "sources/networks/53-se7en.txt"
+
+[[source]]
+id = "silvermob"
+title = "Silvermob"
+kind = "file"
+path = "sources/networks/54-silvermob.txt"
+
+[[source]]
+id = "smaato-2"
+title = "Smaato"
+kind = "file"
+path = "sources/networks/55-smaato-2.txt"
+
+[[source]]
+id = "smartyads"
+title = "SmartyAds"
+kind = "file"
+path = "sources/networks/56-smartyads.txt"
+
+[[source]]
+id = "thebrave"
+title = "TheBrave"
+kind = "file"
+path = "sources/networks/57-thebrave.txt"
+
+[[source]]
+id = "thundermonetinzesingapore"
+title = "ThunderMonetinzeSingapore"
+kind = "file"
+path = "sources/networks/58-thundermonetinzesingapore.txt"
+
+[[source]]
+id = "topon"
+title = "TopOn"
+kind = "file"
+path = "sources/networks/59-topon.txt"
+
+[[source]]
+id = "triplelift"
+title = "TripleLift"
+kind = "file"
+path = "sources/networks/60-triplelift.txt"
+
+[[source]]
+id = "verve"
+title = "Verve"
+kind = "file"
+path = "sources/networks/61-verve.txt"
+
+[[source]]
+id = "xandr"
+title = "Xandr"
+kind = "file"
+path = "sources/networks/62-xandr.txt"
+
+[[source]]
+id = "zmaticoo"
+title = "Zmaticoo"
+kind = "file"
+path = "sources/networks/63-zmaticoo.txt"
+
+[[source]]
+id = "verve-email-lines"
+title = "Verve (account manager lines)"
+kind = "file"
+path = "sources/networks/90-verve-email-lines.txt"
+
+[[source]]
+id = "additional"
+title = "Additional list"
+kind = "file"
+path = "sources/additional/list.txt"
+group = "additional"

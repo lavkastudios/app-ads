@@ -1,0 +1,29 @@
+# Google AdMob
+google.com, pub-1412074265122888, DIRECT, f08c47fec0942fa0
+# Meta Audience Network
+facebook.com, 2936531396560661, DIRECT, c3e20eee3f780d68
+facebook.com, 1110834843162080, DIRECT, c3e20eee3f780d68
+facebook.com, 359904329171239, DIRECT, c3e20eee3f780d68
+# AppLovin
+applovin.com, dd2296e7481bb2de5df62165cf1db1af, DIRECT
+# Liftoff Monetize (Vungle)
+vungle.com, 619cbb89c24e6100187f56e4, DIRECT, c107d686becd2d77
+# Unity Ads
+unity.com, 3509497, DIRECT, 96cabb5fbdde37a7
+# Smaato / Verve
+smaato.com, 1100054425, DIRECT, 07bcf65f187117b4
+smaato.com, 1100055766, DIRECT, 07bcf65f187117b4
+pubnative.net, 1009197, DIRECT, d641df8625486a7b
+pubnative.net, 1016466, DIRECT, d641df8625486a7b
+# Amazon Publisher Services
+aps.amazon.com, 63645400-9ceb-4b0e-a583-1205b616f73e, DIRECT
+# InMobi
+inmobi.com, d9410d99665c4f778a1387067cb5aaf1, DIRECT, 83e75a7ae333ca9d
+# Mintegral
+mintegral.com, 35815, DIRECT, 0aeed750c80d6423
+# DT Exchange (Fyber)
+fyber.com, 210010, DIRECT
+# Pangle
+pangleglobal.com, 5015901, DIRECT
+# BidMachine
+bidmachine.io, 977, DIRECT

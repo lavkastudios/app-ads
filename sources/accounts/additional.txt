@@ -1,0 +1,24 @@
+# Google AdMob
+google.com, pub-1252929722245879, DIRECT, f08c47fec0942fa0
+# AppLovin
+applovin.com, 279bdbf33d71737761b4b8538dd84452, DIRECT
+# Unity Ads
+unity.com, 1131828, DIRECT, 96cabb5fbdde37a7
+# ironSource Ads (LevelPlay)
+ironsrc.com, 227763, DIRECT
+# InMobi
+inmobi.com, 9f58f25fdeab4f56bc87a59919fa114e, DIRECT, 83e75a7ae333ca9d
+# Mintegral
+mintegral.com, 21947, DIRECT, 0aeed750c80d6423
+# DT Exchange (Fyber)
+fyber.com, 213972, DIRECT, 1ad675c9de6b5176
+# Ogury
+ogury.com, 476ee0d6-535d-423c-985a-22ba54906e8b, DIRECT
+# Pangle
+pangleglobal.com, 61214, DIRECT
+# A4G
+a4g.com, 13848, DIRECT
+# Yandex
+yandex.com, 96804212, DIRECT
+# Audiomob
+audiomob.com, 84535d6a5b2e3ab4fb6d7a17bc95d10, DIRECT

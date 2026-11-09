@@ -1,0 +1,5 @@
+# playdigo
+playdigo.com, 1969, RESELLER, 92011346d63d3c30
+improvedigital.com, 2542, RESELLER
+pubmatic.com, 166409, RESELLER, 5d62403b186f2ace
+sonobi.com, 79e197cdbc, RESELLER, d1a215d9eb5aee9e

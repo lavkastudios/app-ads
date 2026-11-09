@@ -1,0 +1,5 @@
+# Own accounts
+google.com, pub-1412074265122888, DIRECT, f08c47fec0942fa0
+facebook.com, 2936531396560661, DIRECT, c3e20eee3f780d68
+facebook.com, 1110834843162080, DIRECT, c3e20eee3f780d68
+facebook.com, 359904329171239, DIRECT, c3e20eee3f780d68

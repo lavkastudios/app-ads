@@ -1,0 +1,14 @@
+# WMG
+adwmg.com, 100887, DIRECT, c9688a22012618e7
+criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
+e-planning.net, 4aee56d1adc59f29, DIRECT, c1ba615865ed87b2
+rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807
+freewheel.tv, 1604590, RESELLER
+freewheel.tv, 1604595, RESELLER
+vidoomy.com, 6384344, DIRECT
+adform.com, 2742, RESELLER
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0
+google.com, pub-8622186303703569, DIRECT, f08c47fec0942fa0
+opera.com, pub9852117236224, DIRECT, 55a0c5fd61378de3
+onetag.com, 5d0d72448d8bfb0, DIRECT

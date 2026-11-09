@@ -1,0 +1,3 @@
+# bidease
+bidease.com, bidease_seller_36, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace

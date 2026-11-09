@@ -1,0 +1,16 @@
+# AcuityAds
+admanmedia.com, 613, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 3948367200, RESELLER
+triplelift.com, 12456, RESELLER, 6c33edb13117fd86
+themediagrid.com, A8X5S7, DIRECT, 35d5010d7789b49d
+conversantmedia.com, 100308, RESELLER, 03113cd04947736d
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+media.net, 8CUSC3UJ7, RESELLER
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b

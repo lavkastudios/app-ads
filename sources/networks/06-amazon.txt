@@ -1,0 +1,36 @@
+# Amazon
+aps.amazon.com, 63645400-9ceb-4b0e-a583-1205b616f73e, DIRECT
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+uis.mobfox.com, 93308, RESELLER, 5529a3d1f59865be
+vungle.com, A9_UAM, RESELLER
+sonobi.com, 24f603762e, RESELLER, d1a215d9eb5aee9e
+yieldmo.com, 2719019867620450718, RESELLER
+inmobi.com, a66d4a9ff81c4595a9f71acf179f73c5, RESELLER, 83e75a7ae333ca9d
+smartadserver.com, 4125, RESELLER, 060d053dcf45cbf3
+yahoo.com, 55029, RESELLER, e1a5b5b6e3255540
+adcolony.com, 44ef7fd4adebf701, RESELLER, 1ad675c9de6b5176
+indexexchange.com, 192410, RESELLER, 50b1c356f2c5c8fc
+admanmedia.com, 726, RESELLER
+pubmatic.com, 160080, RESELLER, 5d62403b186f2ace
+verve.com, 2205665, RESELLER
+beachfront.com, 14804, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 2050, RESELLER
+mintegral.com, 10043, RESELLER, 0aeed750c80d6423
+media.net, 8CUM64E17, RESELLER
+start.io, uam, RESELLER
+minutemedia.com, 01gya4708ddm, RESELLER
+risecodes.com, 63832beef8189a00015cb6d3, RESELLER
+visiblemeasures.com, 1052, RESELLER
+emxdgt.com, 2009, RESELLER, 1e1d41537f7cad7f
+undertone.com, 4205, RESELLER, d954590d0cb265b9
+imds.tv, AM1601, RESELLER, ae6c32151e71f19d
+sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
+lijit.com, 375328, RESELLER, fafdf38b16bf6b2b
+sharethrough.com, 7144eb80, RESELLER, d53b998a7bd4ecd2
+connectad.io, 455, RESELLER, 85ac85a30c93b3e5
+onlinemediasolutions.com, 21079, RESELLER, b3868b187e4b6402
+opera.com, pub12058951686464, RESELLER, 55a0c5fd61378de3
+iion.io, 10209, RESELLER, 013a29748465dc57
+richaudience.com, MMuGgvZcVd, RESELLER
+adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER
+vidazoo.com, 6538cece8ffdc67b51188b9b, RESELLER, b6ada874b4d7d0b2

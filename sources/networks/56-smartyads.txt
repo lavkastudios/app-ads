@@ -1,0 +1,7 @@
+# SmartyAds
+smartyads.com, 355, RESELLER, fd2bde0ff2e62c5d
+adform.com, 2795, RESELLER
+video.unrulymedia.com, 3563866356, RESELLER
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2345, RESELLER
+adform.com, 2742, RESELLER

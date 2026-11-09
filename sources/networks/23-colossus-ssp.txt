@@ -1,0 +1,5 @@
+# Colossus SSP
+supply.colossusssp.com, 848, RESELLER
+xandr.com, 10490, RESELLER
+yieldmo.com, 3078438591206989879, RESELLER
+yieldmo.com, 3081538394287710485, RESELLER
