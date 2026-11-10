@@ -1,0 +1,43 @@
+# Pangle (integration docs list, 2026-11-10)
+aceex.io, 2577, RESELLER, b1cf3c874d5c6682
+admanmedia.com, 2072, RESELLER
+apester.com, 0707, RESELLER
+axonix.com, 59202, RESELLER
+axonix.com, 59204, RESELLER
+bidease.com, bidease_seller_49, RESELLER
+bidmachine.io, 1539, RESELLER
+bidmachine.io, 1560, RESELLER
+bidmachine.io, 1561, RESELLER
+conversantmedia.com, 100358, RESELLER
+criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
+dauup.com, 34109, RESELLER
+display.io, 236374, RESELLER
+indexexchange.com, 216408, RESELLER, 50b1c356f2c5c8fc
+lijit.com, 530498, RESELLER
+media.net, 8CUF7U34W, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33149, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf5001, RESELLER
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+onetag.com, 8668c16092f01e8, RESELLER
+openx.com, 540679900, RESELLER
+opera.com, pub13738037153024, RESELLER, 55a0c5fd61378de3
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
+outbrain.com, 00dbc7a68d0cd51d55ac0aa9e1918c9a34, RESELLER
+peak226.com, 12900, RESELLER
+pubmatic.com, 164289, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167346, RESELLER, 5d62403b186f2ace
+pubnative.net, 1008770, RESELLER, d641df8625486a7b
+pubnative.net, 1009046, RESELLER, d641df8625486a7b
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER
+rubiconproject.com, 28299, RESELLER, 0bfd66d529a55807
+smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
+sovrn.com, 400766, RESELLER, fafdf38b16bf6b2b
+start.io, 158727715, RESELLER
+taurusx.com, 80068, RESELLER
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+trustedstack.com, TS677PGY3, RESELLER
+video.unrulymedia.com, 475093422, RESELLER
+zmaticoo.com, 114122, RESELLER

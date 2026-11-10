@@ -422,6 +422,12 @@ kind = "file"
 path = "sources/networks/63-zmaticoo.txt"
 
 [[source]]
+id = "pangle"
+title = "Pangle"
+kind = "file"
+path = "sources/networks/64-pangle.txt"
+
+[[source]]
 id = "verve-email-lines"
 title = "Verve (account manager lines)"
 kind = "file"
