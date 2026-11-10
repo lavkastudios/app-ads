@@ -122,6 +122,7 @@ aceex.io, 1187, RESELLER, b1cf3c874d5c6682
 aceex.io, 1616, RESELLER, b1cf3c874d5c6682
 aceex.io, 2078, RESELLER
 aceex.io, 2524, RESELLER
+aceex.io, 2577, RESELLER, b1cf3c874d5c6682
 aceex.io, 898, RESELLER, b1cf3c874d5c6682
 acex.adprime.com, AJxF6R93a9M6CaTvK, RESELLER
 acexchange.co.kr, 1076018741, RESELLER
@@ -902,6 +903,9 @@ bidmachine.io, 147, RESELLER
 bidmachine.io, 148, RESELLER
 bidmachine.io, 1490, RESELLER
 bidmachine.io, 1505, RESELLER
+bidmachine.io, 1539, RESELLER
+bidmachine.io, 1560, RESELLER
+bidmachine.io, 1561, RESELLER
 bidmachine.io, 1586, RESELLER
 bidmachine.io, 1592, RESELLER
 bidmachine.io, 189, RESELLER
@@ -1278,6 +1282,7 @@ cpmstar.com, 54504, RESELLER
 criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
+criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
@@ -1299,6 +1304,7 @@ dauup.com, 34102, RESELLER
 dauup.com, 34103, RESELLER
 dauup.com, 34104, RESELLER, 4daba13e2b0dfd92
 dauup.com, 34105, RESELLER, 4daba13e2b0dfd92
+dauup.com, 34109, RESELLER
 dauup.com, 34115, RESELLER, 4daba13e2b0dfd92
 dauup.com, 34127, RESELLER
 dauup.com, 34138, RESELLER, 4daba13e2b0dfd92
@@ -1316,6 +1322,7 @@ display.io, 229046, RESELLER
 display.io, 232020, RESELLER
 display.io, 236055, RESELLER
 display.io, 236370, RESELLER
+display.io, 236374, RESELLER
 display.io, 239139, RESELLER
 districtm.io, 101649, RESELLER, 3fd707be9c4527c3
 domob.cn, 108633903, RESELLER
@@ -1809,6 +1816,7 @@ indexexchange.com, 211613, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 215209, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 216408, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 216513, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
@@ -2685,6 +2693,7 @@ opera.com, pub13152998147264, RESELLER, 55a0c5fd61378de3
 opera.com, pub13158599038336, RESELLER, 55a0c5fd61378de3
 opera.com, pub13191986834624, RESELLER, 55a0c5fd61378de3
 opera.com, pub13541542357632, RESELLER, 55a0c5fd61378de3
+opera.com, pub13738037153024, RESELLER, 55a0c5fd61378de3
 opera.com, pub14613577249152, RESELLER, 55a0c5fd61378de3
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 opera.com, pub4366595624320, RESELLER, 55a0c5fd61378de3
@@ -3014,6 +3023,7 @@ pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164191, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164281, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164289, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164400, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164415, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164418, RESELLER, 5d62403b186f2ace
@@ -4089,6 +4099,7 @@ start.io, 117514417, RESELLER
 start.io, 131192070, RESELLER
 start.io, 135168626, RESELLER
 start.io, 150505487, RESELLER
+start.io, 158727715, RESELLER
 start.io, 162328800, RESELLER
 start.io, 170705356, RESELLER
 start.io, 176414852, RESELLER
@@ -4146,6 +4157,7 @@ taurusx.com, 70119, RESELLER
 taurusx.com, 70608, RESELLER
 taurusx.com, 80010, RESELLER
 taurusx.com, 80056, RESELLER
+taurusx.com, 80068, RESELLER
 taurusx.com, 80609, RESELLER
 taurusx.com, 80614, RESELLER
 taurusx.com, 80635, RESELLER
@@ -5014,7 +5026,6 @@ zoomd.com, 88478941, RESELLER
 9dotsmedia.com, 1351, DIRECT, 45ff185b4c4e857d
 9dotsmedia.com, 4812, RESELLER
 9dotsmedia.com, 5512, RESELLER, 45ff185b4c4e857d
-aceex.io, 2577, RESELLER, b1cf3c874d5c6682
 acexchange.co.kr, 1024314629, RESELLER
 acexchange.co.kr, 1854269911, RESELLER
 ad.plus, 23199801732, DIRECT
@@ -5170,9 +5181,6 @@ bidence.com, 9d48459c49a3b604e65e262102b559b4, RESELLER
 bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
 bidmachine.io, 1051, DIRECT
 bidmachine.io, 1447, RESELLER
-bidmachine.io, 1539, RESELLER
-bidmachine.io, 1560, RESELLER
-bidmachine.io, 1561, RESELLER
 bidmachine.io, 187, RESELLER
 bidmachine.io, 195, RESELLER
 bidmachine.io, 198, RESELLER
@@ -5265,20 +5273,17 @@ copper6.com, 766156, RESELLER
 copper6.com, 766216, RESELLER
 criteo.com, B-058443, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-060555, RESELLER, 9fac4a4a87c2a44f
-criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-066057, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-067384, DIRECT, 9fac4a4a87c2a44f
 criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-081657, DIRECT, 9fac4a4a87c2a44f
-dauup.com, 34109, RESELLER
 dauup.com, 34141, RESELLER
 dauup.com, 34191, RESELLER, 4daba13e2b0dfd92
 digimedllc.com, T3CuGr490nI3eQCxtp, RESELLER
 digitalbloom.it, AJxF6R130a9M6CaTvK, RESELLER
 display.io, 156748, RESELLER
 display.io, 173162, RESELLER
-display.io, 236374, RESELLER
 display.io, 242843, RESELLER
 disqus.com, 626, RESELLER
 districtm.io, 101760, RESELLER, 3fd707be9c4527c3
@@ -5386,7 +5391,6 @@ indexexchange.com, 194648, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 196430, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 205285, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 207932, DIRECT, 50b1c356f2c5c8fc
-indexexchange.com, 216408, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 216592, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 048e75fde9564739a4668d40005ab606, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 08f02085c47b47309a8a576a2b908419, RESELLER, 83e75a7ae333ca9d
@@ -5551,7 +5555,6 @@ openx.com, 560680793, DIRECT, 6a698e2ec38604c6
 openx.com, 564879531, RESELLER, 6a698e2ec38604c6
 opera.com, pub10014014172672, RESELLER, 55a0c5fd61378de3
 opera.com, pub10472284589952, RESELLER, 55a0c5fd61378de3
-opera.com, pub13738037153024, RESELLER, 55a0c5fd61378de3
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 opera.com, pub5959307917824, RESELLER, 55a0c5fd61378de3
 opera.com, pub9166643429696, RESELLER, 55a0c5fd61378de3
@@ -5621,7 +5624,6 @@ pubmatic.com, 163963, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164016, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164079, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
-pubmatic.com, 164289, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164606, DIRECT, 5d62403b186f2ace
 pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
@@ -5784,7 +5786,6 @@ start.io, 116712987, RESELLER
 start.io, 126412094, RESELLER
 start.io, 139527569, DIRECT
 start.io, 146282053, RESELLER
-start.io, 158727715, RESELLER
 start.io, 168507669, RESELLER
 start.io, 184783812, RESELLER
 start.io, ope, RESELLER
@@ -5806,7 +5807,6 @@ targetspot.com, 164, DIRECT, feb28ed826dcf532
 targetspot.com, 180, DIRECT, feb28ed826dcf532
 targetspot.com, 180, RESELLER, feb28ed826dcf532
 taurusx.com, 80066, RESELLER
-taurusx.com, 80068, RESELLER
 taurusx.com, 80070, RESELLER
 tcl.com, Pub-968324, DIRECT
 teads.tv, 26836, DIRECT, 15a9c44f6d26cbe1
