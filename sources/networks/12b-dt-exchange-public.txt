@@ -1,6 +1,6 @@
-# DT Exchange (public list)
+# DT Exchange
 # source: https://www.digitalturbine.com/dt-app-ads.txt
-# fetched: 2026-11-09 15:29 UTC
+# fetched: 2026-11-16 13:39 UTC
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002fO3V4AAK, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg00002TLmWBIA1, RESELLER, bbea06d9c4d2853c
