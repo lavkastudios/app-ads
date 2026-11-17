@@ -1,4 +1,4 @@
-# Unity Ads (dashboard list, 2026-11-09)
+# Unity Ads (dashboard list, 2026-11-17)
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1

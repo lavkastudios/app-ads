@@ -1,4 +1,4 @@
-# Pangle (integration docs list, 2026-11-10)
+# Pangle (integration docs list, 2026-11-17)
 aceex.io, 2577, RESELLER, b1cf3c874d5c6682
 admanmedia.com, 2072, RESELLER
 apester.com, 0707, RESELLER

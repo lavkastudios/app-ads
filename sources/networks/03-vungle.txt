@@ -1,4 +1,4 @@
-# Liftoff Monetize (Vungle) (dashboard list, 2026-11-09)
+# Liftoff Monetize (Vungle) (dashboard list, 2026-11-17)
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
 contextweb.com, 562852, RESELLER, 89ff185a4c4e857c
 media.net, 8CU12AQ1Y, RESELLER
